@@ -1,0 +1,14 @@
+C:\Users\sumed\source\repos\LINQDEMO\LINQDEMO\bin\Debug\net6.0\LINQDEMO.exe
+C:\Users\sumed\source\repos\LINQDEMO\LINQDEMO\bin\Debug\net6.0\LINQDEMO.deps.json
+C:\Users\sumed\source\repos\LINQDEMO\LINQDEMO\bin\Debug\net6.0\LINQDEMO.runtimeconfig.json
+C:\Users\sumed\source\repos\LINQDEMO\LINQDEMO\bin\Debug\net6.0\LINQDEMO.dll
+C:\Users\sumed\source\repos\LINQDEMO\LINQDEMO\bin\Debug\net6.0\LINQDEMO.pdb
+C:\Users\sumed\source\repos\LINQDEMO\LINQDEMO\obj\Debug\net6.0\LINQDEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumed\source\repos\LINQDEMO\LINQDEMO\obj\Debug\net6.0\LINQDEMO.AssemblyInfoInputs.cache
+C:\Users\sumed\source\repos\LINQDEMO\LINQDEMO\obj\Debug\net6.0\LINQDEMO.AssemblyInfo.cs
+C:\Users\sumed\source\repos\LINQDEMO\LINQDEMO\obj\Debug\net6.0\LINQDEMO.csproj.CoreCompileInputs.cache
+C:\Users\sumed\source\repos\LINQDEMO\LINQDEMO\obj\Debug\net6.0\LINQDEMO.dll
+C:\Users\sumed\source\repos\LINQDEMO\LINQDEMO\obj\Debug\net6.0\refint\LINQDEMO.dll
+C:\Users\sumed\source\repos\LINQDEMO\LINQDEMO\obj\Debug\net6.0\LINQDEMO.pdb
+C:\Users\sumed\source\repos\LINQDEMO\LINQDEMO\obj\Debug\net6.0\LINQDEMO.genruntimeconfig.cache
+C:\Users\sumed\source\repos\LINQDEMO\LINQDEMO\obj\Debug\net6.0\ref\LINQDEMO.dll
