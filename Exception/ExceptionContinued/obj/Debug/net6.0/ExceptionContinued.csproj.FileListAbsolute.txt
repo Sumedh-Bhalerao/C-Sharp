@@ -1,0 +1,14 @@
+C:\Users\sumed\source\repos\Exception\ExceptionContinued\bin\Debug\net6.0\ExceptionContinued.exe
+C:\Users\sumed\source\repos\Exception\ExceptionContinued\bin\Debug\net6.0\ExceptionContinued.deps.json
+C:\Users\sumed\source\repos\Exception\ExceptionContinued\bin\Debug\net6.0\ExceptionContinued.runtimeconfig.json
+C:\Users\sumed\source\repos\Exception\ExceptionContinued\bin\Debug\net6.0\ExceptionContinued.dll
+C:\Users\sumed\source\repos\Exception\ExceptionContinued\bin\Debug\net6.0\ExceptionContinued.pdb
+C:\Users\sumed\source\repos\Exception\ExceptionContinued\obj\Debug\net6.0\ExceptionContinued.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumed\source\repos\Exception\ExceptionContinued\obj\Debug\net6.0\ExceptionContinued.AssemblyInfoInputs.cache
+C:\Users\sumed\source\repos\Exception\ExceptionContinued\obj\Debug\net6.0\ExceptionContinued.AssemblyInfo.cs
+C:\Users\sumed\source\repos\Exception\ExceptionContinued\obj\Debug\net6.0\ExceptionContinued.csproj.CoreCompileInputs.cache
+C:\Users\sumed\source\repos\Exception\ExceptionContinued\obj\Debug\net6.0\ExceptionContinued.dll
+C:\Users\sumed\source\repos\Exception\ExceptionContinued\obj\Debug\net6.0\refint\ExceptionContinued.dll
+C:\Users\sumed\source\repos\Exception\ExceptionContinued\obj\Debug\net6.0\ExceptionContinued.pdb
+C:\Users\sumed\source\repos\Exception\ExceptionContinued\obj\Debug\net6.0\ExceptionContinued.genruntimeconfig.cache
+C:\Users\sumed\source\repos\Exception\ExceptionContinued\obj\Debug\net6.0\ref\ExceptionContinued.dll
