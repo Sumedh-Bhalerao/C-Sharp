@@ -1,0 +1,14 @@
+C:\Users\sumed\source\repos\multilevel Inheritance\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.exe
+C:\Users\sumed\source\repos\multilevel Inheritance\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.deps.json
+C:\Users\sumed\source\repos\multilevel Inheritance\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.runtimeconfig.json
+C:\Users\sumed\source\repos\multilevel Inheritance\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.dll
+C:\Users\sumed\source\repos\multilevel Inheritance\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.pdb
+C:\Users\sumed\source\repos\multilevel Inheritance\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumed\source\repos\multilevel Inheritance\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\sumed\source\repos\multilevel Inheritance\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.AssemblyInfo.cs
+C:\Users\sumed\source\repos\multilevel Inheritance\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\sumed\source\repos\multilevel Inheritance\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.dll
+C:\Users\sumed\source\repos\multilevel Inheritance\InheritanceDemo\obj\Debug\net6.0\refint\InheritanceDemo.dll
+C:\Users\sumed\source\repos\multilevel Inheritance\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.pdb
+C:\Users\sumed\source\repos\multilevel Inheritance\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.genruntimeconfig.cache
+C:\Users\sumed\source\repos\multilevel Inheritance\InheritanceDemo\obj\Debug\net6.0\ref\InheritanceDemo.dll
